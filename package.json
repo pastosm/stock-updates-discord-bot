@@ -14,7 +14,8 @@
     "discord.js": "^13.3.1",
     "dotenv": "^10.0.0",
     "fs": "^0.0.1-security",
-    "iexjs": "^0.4.0"
+    "iexjs": "^0.4.0",
+    "mongoose": "^6.0.15"
   },
   "devDependencies": {
     "eslint": "^8.3.0"

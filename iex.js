@@ -1,4 +1,3 @@
-const { SlashCommandStringOption } = require('@discordjs/builders');
 const { Client } = require('iexjs');
 const { IEXKey } = require('./config.json');
 
